@@ -22,4 +22,6 @@ Data Analytics & Machine Learning Consultant
 
 ### Badges
 
-<a href="https://github.com/ChristianKar" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianKar&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/ChristianKar/Routage" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ChristianKar&repo=Routage&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/ChristianKar/Modelisation_in_Finance" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ChristianKar&repo=Modelisation_in_Finance&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
