@@ -3,7 +3,7 @@
 My name is Christos Karatzias 
 ==========================================================================================================================================
     
-Data Scientist
+Data Scientist 
 --------------
 
 🔍 I'm a Mechanical Engineer turned Data Scientist 🤖 . I'm Leveraging my engineering background to drive insights through Data Analytics and Machine Learning 📊🧠 I'm specialized in extracting meaningful patterns from complex datasets 💻 . I'm passionate about transforming raw data into actionable intelligence to solve real-world problems 🌐 , I'm constantly exploring innovative ways to merge fundamental math and statistics principles with the power of data 🛠️ . I call myself an open-source advocate contributing to the intersection of data science and mechanical engineering. Let's build a smarter, data-driven future together! 🚀 #DataScience #MachineLearning #Python 🐍
